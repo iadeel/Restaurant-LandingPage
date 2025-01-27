@@ -214,7 +214,7 @@ body{
     }
     .contents{
         flex-wrap: wrap ;
-        padding: 30px;
+        padding: 20px;
         
     }
     .content-left{
@@ -227,7 +227,7 @@ body{
         align-items: center;
     }
     .content-right .productcard{
-        width: 230px;
+        width: 240px;
         padding: 10px;
     }
     .content-right img{

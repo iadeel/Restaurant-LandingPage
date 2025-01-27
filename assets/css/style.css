@@ -34,7 +34,7 @@ body{
     display: flex;
     gap: 5px;
     align-items: center;
-    
+    cursor: pointer;
     
 }
 .header .logo p{
@@ -56,6 +56,10 @@ body{
     align-items: center;
     flex-wrap: wrap;
     
+}
+
+.header .nav ul li{
+    cursor: pointer;
 }
 .header .actions{
     font-size: 20px;
@@ -113,6 +117,7 @@ body{
     border: none;
     color: white;
     border-radius: 10px;
+    cursor: pointer;
 }
 .content-right{
     min-width: 60%;
